@@ -5,9 +5,9 @@ body {
 #title {
   font-style: italic;
   text-align: center;
-  font-family: fantasy;
-  font-size: 50px;
-  color: yellow;
+  font-family: 'Goblin One', cursive;
+  font-size: 80px;
+  color: black;
 }
 
 #color-palette {
